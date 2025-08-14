@@ -1,7 +1,5 @@
-# Marketing-Data-Analysis-Tableau
-End-to-end marketing data cleaning, KPI calculation, and visualization using Tableau &amp; Excel
-
 # Marketing Data Analysis & Visualization – Tableau + Excel
+End-to-end marketing data cleaning, KPI calculation, and visualization using Tableau &amp; Excel
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end marketing analytics workflow using **Google Analytics (GA)**, **DBM**, **DCM**, and **Facebook Ads** datasets.  
